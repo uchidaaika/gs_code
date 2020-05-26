@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>POST練習</title>
+<title>課題</title>
 </head>
 <body>
 <form action="post_confirm.php" method="post">
