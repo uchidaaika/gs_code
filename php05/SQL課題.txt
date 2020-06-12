@@ -10,4 +10,4 @@
 
 6.SELECT * FROM gs_an_table ORDER BY indate DESC LIMIT 5
 
-7.SELECT * FROM gs_an_table GROUP BY age
+7.SELECT COUNT(*) AS age,COUNT(*) FROM gs_an_table GROUP BY age
